@@ -16,7 +16,7 @@ To set this project up on your local machine ,followthe following steps:
 
 -run the live server. 
 
-##Technology Used
+## Technology Used
 -HTML
 -CSS
 
